@@ -73,7 +73,7 @@ Please cite the original paper:
 
 ```
 @article{xu2022dream3d,
-  author    = {Voynov, Andrey and Chu, Qinghao and Cohen-Or, Daniel and Cao, Yan-Pei and Aberman, Kfir},
+  author    = {Voynov, Andrey and Chu, Qinghao and Cohen-Or, Daniel and Aberman, Kfir},
   title     = {$P+$: Extended Textual Conditioning in Text-to-Image Generation},
   journal   = {arXiv preprint arXiv:2303.09522},
   year      = {2023},
